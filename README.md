@@ -38,7 +38,8 @@ Please refer to the user manual or documentation for detailed instructions on ho
 
 ## Contributors
 
-The Library Management System was developed by [Sounak Mandal]. We appreciate any feedback, bug reports, or suggestions for improvement. You can reach us at [sounak.mandal2020@vitstuddent.ac.in].
+The Library Management System was developed by Sounak Mandal. 
+I appreciate any feedback, bug reports, or suggestions for improvement. You can reach us at [sounak.mandal2020@vitstuddent.ac.in].
 
 ## License
 
