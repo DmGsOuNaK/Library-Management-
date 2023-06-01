@@ -26,8 +26,8 @@ To run the Library Management System, ensure that you have the following softwar
 1. Clone or download the project files from the repository.
 2. Import the project into NetBeans IDE.
 3. Create a new MySQL database for the Library Management System.
-4. Import the database schema and data from the provided SQL file (`library_db.sql`).
-5. Configure the MySQL database connection settings in the project files (`DatabaseConnection.java`).
+4. Import the database schema and data from the provided SQL file (`TABLES and DB.sql`).
+5. Configure the MySQL database connection settings in the project files (`library_management`).
 6. Build and run the project in NetBeans IDE.
 
 ## Usage
