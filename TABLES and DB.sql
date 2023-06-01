@@ -28,7 +28,7 @@ CREATE TABLE lib_book (
 	authorName varchar(255) NOT NULL,
 	publisherName varchar(255) NOT NULL
 );
-CREATE TABLE issues (
+CREATE TABLE issues(
 	issueId int Primary Key AUTO_INCREMENT,
 	bookId varchar(255) NOT NULL,
 	copyNo int NOT NULL,
